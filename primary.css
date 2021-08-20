@@ -1,0 +1,37 @@
+body{
+    background-color: greenyellow;
+}
+
+
+.center{
+    margin: 4% 10%;
+    width: 80%;
+    background-color: whitesmoke;
+    /* height:650px; */
+}
+
+.navbar-nav{
+    padding-left: 79%;
+}
+
+.navbar-brand{
+    padding-left: 1%;
+}
+
+.form1{
+    padding: 2%;
+    margin: 0 30%;
+}
+
+.fdiv1{
+    display: table;
+    /* vertical-align: middle; */
+}
+
+.bd1{
+    margin-left: 20%;
+}
+
+.wrapper{
+    margin-left: 30%;
+}
